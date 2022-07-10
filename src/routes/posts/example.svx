@@ -1,0 +1,10 @@
+---
+title: Example post
+author: Vulgo
+date_created: 2020/01/01
+date_modified: 2020/01/01
+---
+
+## This is an example post.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur sagittis, nisi nisl aliquet nunc, euismod aliquam nisi nisl euismod nunc.

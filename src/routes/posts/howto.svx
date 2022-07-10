@@ -1,0 +1,30 @@
+---
+title: 'How to use Vulgo'
+author: 'roaming97'
+date_created: 2022/10/07
+---
+
+## General usage
+
+Using Vulgo is very easy, just follow the steps below.
+
+All posts have a title, an author, and a date. This metadata is specified in the following format:
+
+```
+---
+title: 'My Post'
+author: 'Vulgo'
+date_created: '2022/10/07'
+date_modified: '2022/10/07'
+---
+```
+
+The date_modified field is optional.
+You can add or remove fields for your metadata by modifying the `Post` type located in `app.d.ts`.
+
+Once you've written the metadata for the post, you can now start writing the content of the post.
+
+## Adding a new post
+
+Adding posts is as simple as adding .svx files to the `posts` directory and writing plain markdown in them.
+.svx files are automatically converted to svelte routes thanks to `mdsvex`.
