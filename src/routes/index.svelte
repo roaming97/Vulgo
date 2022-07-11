@@ -37,7 +37,11 @@
 
 <template>
 	<h1>Vulgo</h1>
-	<p>A minimal blog template using SvelteKit & mdsvex.</p>
+	<p>
+		An extremely minimal blog template using <a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a>
+		&
+		<a href="https://mdsvex.pngwn.io" target="_blank">mdsvex</a>
+	</p>
 	<hr />
 	{#each posts as post}
 		<h2>
