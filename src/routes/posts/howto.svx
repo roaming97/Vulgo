@@ -28,7 +28,7 @@ Once you've written the metadata for the post, you can now start writing the con
 
 Thanks to mdsvex you can also use Svelte components within your posts!
 
-You may check out the `example.svx` file in the `/src/routes/posts` directory to see how a post looks like.
+You may check out the `example.svx` file in the `/src/routes/posts` directory to see what a post looks like.
 
 ## Adding a new post
 

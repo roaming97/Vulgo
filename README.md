@@ -26,6 +26,7 @@ To exit the server, press Ctrl+C.
 
 ## Deploying
 
-Deploying your blog in Vulgo is easy. It has a preconfigured Vercel adapter that you can use to deploy your blog.
+Vulgo has a preconfigured Vercel adapter that you can use to deploy your blog.
+If not using Vercel, you can use `npm run build` and build it normally like a normal Svelte project.
 
 You can find more information [here](https://vercel.com/guides/deploying-svelte-with-vercel).
