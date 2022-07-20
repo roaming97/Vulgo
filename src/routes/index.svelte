@@ -10,6 +10,7 @@
 					const file = await files[post]()
 					res({
 						name: files[post].name,
+						//@ts-ignore
 						meta: file.metadata
 					})
 				} catch (err) {
