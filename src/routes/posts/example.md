@@ -40,7 +40,7 @@ else:
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 
-This is a link to [Google](https://www.google.com)
+This is a link to [DuckDuckGo](https://www.duckduckgo.com)
 
 This is a picture of a cat:
 

@@ -1,11 +1,7 @@
-const mdsvexConfig = {
-    extensions: ['.svelte.md', '.md', '.svx'],
-    smartypants: {
-        dashes: 'oldschool'
-    },
-    layout: {
-        _: 'src/routes/_bloglayout.svelte'
-    }
+/** @type {import('mdsvex').MdsvexOptions} */
+export default {
+	extensions: ['.svelte.md', '.md', '.svx'],
+	smartypants: {
+		dashes: 'oldschool'
+	}
 }
-
-export default mdsvexConfig
